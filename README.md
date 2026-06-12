@@ -1,4 +1,4 @@
-# DNA Sequence Analyzer 🧬
+# DNA Sequence Analyzer 
 
 A Python-based bioinformatics project that performs DNA sequence analysis, mutation detection, transcription, and protein translation.
 
